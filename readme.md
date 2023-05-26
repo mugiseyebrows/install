@@ -16,4 +16,5 @@ sudo bash install-docker.sh
 ```sh
 apk add curl html2text
 curl -o /usr/bin/apkfile https://raw.githubusercontent.com/fcolista/apkfile/main/apkfile
+chmod a+x /usr/bin/apkfile
 ```
