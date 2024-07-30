@@ -1,0 +1,6 @@
+def main
+    pushd_cd()
+        download(https://github.com/paintdotnet/release/releases/download/v5.0.13/paint.net.5.0.13.install.anycpu.web.zip, :cache)
+        unzip(paint.net.5.0.13.install.anycpu.web.zip)
+        paint.net.5.0.13.install.anycpu.web.exe
+    popd

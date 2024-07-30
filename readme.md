@@ -1,3 +1,11 @@
+# Windows
+
+# paintnet
+
+```
+curl -L -o paintnet.bat https://raw.githubusercontent.com/mugiseyebrows/install/main/paintnet.bat
+```
+
 # Ubuntu
 
 ## Docker
