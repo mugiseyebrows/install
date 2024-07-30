@@ -1,0 +1,5 @@
+def main
+    pushd_cd()
+        download(https://github.com/ShareX/ShareX/releases/download/v16.1.0/ShareX-16.1.0-setup.exe)
+        ShareX-16.1.0-setup.exe
+    popd

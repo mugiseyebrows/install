@@ -2,8 +2,15 @@
 
 # paintnet
 
-```
+```shell
 curl -L -o paintnet.bat https://raw.githubusercontent.com/mugiseyebrows/install/main/paintnet.bat
+paintnet.bat
+```
+
+# shareX
+```shell
+curl -L -o sharex.bat https://raw.githubusercontent.com/mugiseyebrows/install/main/sharex.bat
+sharex.bat
 ```
 
 # Ubuntu
