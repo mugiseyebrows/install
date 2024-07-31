@@ -13,6 +13,12 @@ curl -L -o sharex.bat https://raw.githubusercontent.com/mugiseyebrows/install/ma
 sharex.bat
 ```
 
+# python310
+```shell
+curl -L -o python310.bat https://raw.githubusercontent.com/mugiseyebrows/install/main/python310.bat
+python310.bat
+```
+
 # Ubuntu
 
 ## Docker
