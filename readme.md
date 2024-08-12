@@ -19,6 +19,12 @@ curl -L -o python310.bat https://raw.githubusercontent.com/mugiseyebrows/install
 python310.bat
 ```
 
+# inno setup
+```shell
+curl -L -o python310.bat https://raw.githubusercontent.com/mugiseyebrows/install/main/innosetup.bat
+innosetup.bat
+```
+
 # Ubuntu
 
 ## Docker
