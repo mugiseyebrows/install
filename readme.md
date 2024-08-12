@@ -19,9 +19,9 @@ curl -L -o python310.bat https://raw.githubusercontent.com/mugiseyebrows/install
 python310.bat
 ```
 
-# inno setup
+# innosetup
 ```shell
-curl -L -o python310.bat https://raw.githubusercontent.com/mugiseyebrows/install/main/innosetup.bat
+curl -L -o innosetup.bat https://raw.githubusercontent.com/mugiseyebrows/install/main/innosetup.bat
 innosetup.bat
 ```
 
